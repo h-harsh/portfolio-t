@@ -8,9 +8,10 @@ html {
 	margin: 0;
 	padding: 0;
 }
-// .hide-flags{
-// 	visibility:hidden !important;
-// }
+.hide-flags{
+	// visibility:hidden !important;
+	display: none !important;
+}
 
 .aligner {
 	display: flex;

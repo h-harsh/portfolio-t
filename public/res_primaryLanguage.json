@@ -133,37 +133,36 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Learnhat",
+        "title": "Front-End Engineer",
+        "years": "09.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React/React Native"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "React Native",
+          "Typescript",
+          "CSS",
+          "JavaScript"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "NeogCamp",
+        "title": "Learnt Web Development",
+        "years": "01.2020 - 09.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Full Stack"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "React",
+          "Node",
+          "Express",
+          "Mongo DB/Mongoose",
+          "Typescript",
+          "Testing",
+          "CSS"
         ]
       }
     ]

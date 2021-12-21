@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Harsh Porwal",
-      "titles": [ "Front-end Developer" ],
+      "titles": [ "Front-end Engineer" ],
       "social": [
         {
           "name": "github",
@@ -12,9 +12,14 @@
           "name": "twitter",
           "url": "https://twitter.com/HharshPorwal",
           "class": "fab fa-twitter"
+        },
+        {
+          "name": "twitter",
+          "url": "https://www.linkedin.com/in/harsh-porwal/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "yello-dp.jpg"
     },
     "skills": {
       "icons": [
@@ -43,6 +48,21 @@
         {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "Mongo DB",
+          "class": "devicon-mongodb-plain",
+          "level": "85"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
           "level": "85"
         }
       ]
