@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Harsh Porwal, a self taught developer, I come from finance background, turned into programming after some exploration, Currently I am working at a startup as a Front Engineer for both Mobile and Web. I am good with JavaScript, Currently I have worked on MERN stack and React Native, also familiar with basics of TypeScript and testing, Apart from coding I read Books,As of now Exploring things and focusing on becoming a better developer",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,38 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Fin-Store",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "FinStore is an full-stack e-commerce application, Which has features from User management to placing an aorder and making payment for your order, The tech stack used is MERN and razorpay for payment gateway",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/e-comm/e-comm-p2.png",
+          "images/portfolio/e-comm/ecomm-p1.png"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://finstore.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,27 +31,103 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Fine-Socials",
+        "startDate": "2020",
+        "description": "Fine-Socials is a full-stack social media platform, Which has featuers like User management, Create post, Edit Post, Delete Post, Comment on someone's post, Like/Unlike post, Follow/unfollow users etc, The tech stack used is MERN stack.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/social/social-p1.png",
+          "images/portfolio/social/social-p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://fine-socials.netlify.app/login",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Quiz App",
+        "startDate": "2020",
+        "description": "This is a Quiz application which has feati=ures like, User management, play quiz, stores all records of quiz played with scores, leaderboards, after quiz analysis, The tech stack used is MERN plus TypeScript :)",
+        "images": [
+          "images/portfolio/quiz/p1.png",
+          "images/portfolio/quiz/p2.png"
+        ],
+        "url": "https://q-quizify.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }, 
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Fin-Tube",
+        "startDate": "2020",
+        "description": "Fin-Tube is my basioc version of youtube, which has features like User management, Playlist management, History feature, Like/dislike video. The tech stack used is MERN",
+        "images": [
+          "images/portfolio/fintube/p1.png",
+          "images/portfolio/fintube/p2.png"
+        ],
+        "url": "https://fintube.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
+        ]
+      },
+      {
+        "title": "Even Ui",
+        "startDate": "2020",
+        "description": "Even-UI is a css component library, Which has wide range of small components which can be used to create awesome projects, I have used it's components in my other projects and made it to get a gist of design system thing, It is purely created with HTML and CSS .",
+        "images": [
+          "images/portfolio/evenui/p2.png",
+          "images/portfolio/evenui/p1.png"
+          
+        ],
+        "url": "https://even-ui.netlify.app/",
+        "technologies": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          }
+        ]
+      },
+      {
+        "title": "Blogs",
+        "startDate": "2020",
+        "description": "I have written few blogs, It helps me grasp the concept a little better .",
+        "images": [
+          "images/portfolio/blog.png"
+          
+        ],
+        "url": "https://h-harsh.hashnode.dev/",
+        "technologies": [
+          
         ]
       }
     ],
