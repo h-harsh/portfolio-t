@@ -28,6 +28,10 @@
           "name": "React"
         },
         {
+          "class": "devicon-react-original",
+          "name": "React Native"
+        },
+        {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
         }, 
