@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Fin-Store",
+        "title": "Book-Store",
         "startDate": "2020",
         "description": "FinStore is an full-stack e-commerce application, Which has features from User management to placing an aorder and making payment for your order, The tech stack used is MERN and razorpay for payment gateway",
         "images": [
-          "images/portfolio/e-comm/e-comm-p2.png",
-          "images/portfolio/e-comm/ecomm-p1.png"
+          "images/portfolio/e-comm/ecomm-p1.png",
+          "images/portfolio/e-comm/ecomm-p2.png"
         ],
-        "url": "https://finstore.netlify.app/",
+        "url": "https://new-book-store.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -38,7 +38,7 @@
           "images/portfolio/social/social-p1.png",
           "images/portfolio/social/social-p2.png"
         ],
-        "url": "https://fine-socials.netlify.app/login",
+        "url": "https://fine-socials.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -51,12 +51,13 @@
         ]
       },
       {
-        "title": "Quiz App",
+        "title": "Quizify",
         "startDate": "2020",
         "description": "This is a Quiz application which has feati=ures like, User management, play quiz, stores all records of quiz played with scores, leaderboards, after quiz analysis, The tech stack used is MERN plus TypeScript :)",
         "images": [
-          "images/portfolio/quiz/p1.png",
-          "images/portfolio/quiz/p2.png"
+          "images/portfolio/quiz/quiz-p0.png",
+          "images/portfolio/quiz/quiz-p1.png",
+          "images/portfolio/quiz/quiz-p2.png"
         ],
         "url": "https://q-quizify.netlify.app/",
         "technologies": [
@@ -75,14 +76,14 @@
         ]
       },
       {
-        "title": "Fin-Tube",
+        "title": "UTube",
         "startDate": "2020",
         "description": "Fin-Tube is my basioc version of youtube, which has features like User management, Playlist management, History feature, Like/dislike video. The tech stack used is MERN",
         "images": [
-          "images/portfolio/fintube/p1.png",
-          "images/portfolio/fintube/p2.png"
+          "images/portfolio/fintube/utube-p2.png",
+          "images/portfolio/fintube/utube-p1.png"
         ],
-        "url": "https://fintube.netlify.app/",
+        "url": "https://new-utube.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
