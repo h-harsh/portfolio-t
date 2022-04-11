@@ -81,7 +81,7 @@
         "description": "Fin-Tube is my basioc version of youtube, which has features like User management, Playlist management, History feature, Like/dislike video. The tech stack used is MERN",
         "images": [
           "images/portfolio/fintube/utube-p2.png",
-          "images/portfolio/fintube/utube-p1.png"
+          "images/portfolio/fintube/utube-p10.png"
         ],
         "url": "https://new-utube.netlify.app/",
         "technologies": [
